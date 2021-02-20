@@ -1,3 +1,7 @@
+---
+output: html_document
+runtime: shiny_prerendered
+---
 
 ```{r setup, include=FALSE}
 library(learnr)
