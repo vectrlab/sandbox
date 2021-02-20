@@ -1,5 +1,4 @@
 ---
-title: "R"
 output: learnr::tutorial
 runtime: shiny_prerendered
 ---
@@ -9,5 +8,5 @@ library(learnr)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r add-function, exercise=TRUE, exercise.lines = 10}
+```{r add-function, exercise=TRUE, exercise.lines = 25}
 ```
